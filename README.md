@@ -1,6 +1,6 @@
 # Hello, I'm Cyberpunk042 👋🚀
 
-![Social Profiles](https://linktr.ee/cyberpunk042)
+[Social Profiles](https://linktr.ee/cyberpunk042)
 
 ## About Me
 

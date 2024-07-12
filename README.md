@@ -6,9 +6,9 @@
 
 I'm a C-Level System Engineer with a passion for IoT. I love exploring various fields such as neuroscience, psychology, philosophy, physics, and more. With a keen interest in cutting-edge technologies and their applications, I thrive on pushing the boundaries of innovation.
 
-- 🔭 I’m currently working on Custom LLM chains implementations & integrations, and am delving deep into the intricate world of IoT
-- 🌱 I’m currently expanding my knowledge in Hardware, Firmware, Low-Level Languages, embracing the ever-evolving tech landscape.
-- 💬 Ask me about Systems, Design Patterns, Frameworks, Objects, and how they intertwine to create seamless digital ecosystems.
+🔭 I’m currently working on Custom LLM chains implementations & integrations, and am delving deep into the intricate world of IoT  
+🌱 I’m currently expanding my knowledge in Hardware, Firmware, Low-Level Languages, embracing the ever-evolving tech landscape.  
+💬 Ask me about Systems, Design Patterns, Frameworks, Objects, and how they intertwine to create seamless digital ecosystems.
 
 ## Skills
 

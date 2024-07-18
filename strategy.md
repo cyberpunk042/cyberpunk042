@@ -1,4 +1,5 @@
 # Mindfulness Series
+structured, visual representation: [content-layering](content-layering.md)
 
 ## Core Series
 1. **Mindfulness and Neuroscience**

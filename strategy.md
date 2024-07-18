@@ -1,27 +1,29 @@
-1. Core Series
-   a. Mindfulness and Neuroscience
-   b. Philosophy and Psychology of Mindfulness
-   c. Practical Applications of Mindfulness
-   d. Advanced Mindfulness Practices
+# Mindfulness Series
 
-2. Specialized Focus Series
-   a. Mindfulness in Relationships
-   b. Mindfulness and Creativity
-   c. Mindfulness and Stress Management
-   d. Mindfulness and Physical Health
-   e. Mindfulness in Diverse Cultures
-   f. Mindfulness and Technology
+## Core Series
+1. **Mindfulness and Neuroscience**
+2. **Philosophy and Psychology of Mindfulness**
+3. **Practical Applications of Mindfulness**
+4. **Advanced Mindfulness Practices**
 
-3. Deep Dive Topics
-   a. Kundalini and Energy Systems
-   b. Consciousness: From Sleep to Wakefulness
-   c. Mind-Body Connection
-   d. Mindfulness in Decision-Making
+## Specialized Focus Series
+1. **Mindfulness in Relationships**
+2. **Mindfulness and Creativity**
+3. **Mindfulness and Stress Management**
+4. **Mindfulness and Physical Health**
+5. **Mindfulness in Diverse Cultures**
+6. **Mindfulness and Technology**
 
-4. Intersectional Series
-   a. Mindful Dynamics: Observation, Attention, and Action
-   b. The Flow of Energy: From Pressure to Performance
-   c. Concentration and Creativity: Crafting the Flow State
-   d. The Mindful Observer: Awareness in Motion
-   e. From Mindfulness to Influence: Shaping Reality
-   f. Integrative Mindfulness: Merging Mind, Body, and Spirit
+## Deep Dive Topics
+1. **Kundalini and Energy Systems**
+2. **Consciousness: From Sleep to Wakefulness**
+3. **Mind-Body Connection**
+4. **Mindfulness in Decision-Making**
+
+## Intersectional Series
+1. **Mindful Dynamics: Observation, Attention, and Action**
+2. **The Flow of Energy: From Pressure to Performance**
+3. **Concentration and Creativity: Crafting the Flow State**
+4. **The Mindful Observer: Awareness in Motion**
+5. **From Mindfulness to Influence: Shaping Reality**
+6. **Integrative Mindfulness: Merging Mind, Body, and Spirit**

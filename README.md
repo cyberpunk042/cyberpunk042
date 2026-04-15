@@ -4,13 +4,14 @@
 
 IT & AI Systems Engineer with a passion for IoT. I love exploring various fields such as neuroscience, psychology, philosophy, physics, and more. With a keen interest in cutting-edge technologies and their applications, I thrive on pushing the boundaries of innovation.
 
-🔭 I’m currently working on Custom Copilots, AI Agent Projects Configurations, AI Assistants Fleet Systems, & Agile AI-Driven Development.
+🔭 I’m currently working on Custom Copilots, AI Agent Projects Configurations, AI Assistants Fleet Systems, & Agile AI-Driven Development.  
 🌱 I’m currently expanding my knowledge in AI, Hardware, Firmware, Low-Level Languages, embracing the ever-evolving tech landscape.  
 💬 Ask me about Systems, Design Patterns, Frameworks, Objects, and how they intertwine to create seamless digital ecosystems.
 
 ## Skills
 
-![AI Harness](https://img.shields.io/badge/AI_Ecosystem-002D0C?style=for-the-badge&logo=claude&logoColor=white)  ![AI Ecosystem](https://img.shields.io/badge/AI_Config-fcba03?style=for-the-badge&logo=markdown&logoColor=black)  
+![AI Sytems & AI-Driven Development](https://img.shields.io/badge/AI_Sytems_&_AI--Driven_Development-0800ff?style=for-the-badge&logo=dependabot&logoColor=white)   
+![AI Ecosystems](https://img.shields.io/badge/AI_Ecosystems-002D0C?style=for-the-badge&logo=claude&logoColor=white)  ![AI Config](https://img.shields.io/badge/AI_Config-fcba03?style=for-the-badge&logo=markdown&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 ![Networking](https://img.shields.io/badge/Networking-00b4cc?style=for-the-badge)  ![Socket](https://img.shields.io/badge/Socket-4f5b93?style=for-the-badge)  

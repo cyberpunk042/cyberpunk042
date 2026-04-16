@@ -10,7 +10,7 @@ IT & AI Systems Engineer with a passion for IoT. I love exploring various fields
 
 ## Skills
 
-![AI Sytems & AI-Driven Development](https://img.shields.io/badge/AI_Sytems_&_AI--Driven_Development-0800ff?style=for-the-badge&logo=dependabot&logoColor=white)   
+![AI Systems & AI-Driven Development](https://img.shields.io/badge/AI_Systems_&_AI--Driven_Development-0800ff?style=for-the-badge&logo=dependabot&logoColor=white)   
 ![AI Ecosystems](https://img.shields.io/badge/AI_Ecosystems-002D0C?style=for-the-badge&logo=claude&logoColor=white)  ![AI Config](https://img.shields.io/badge/AI_Config-fcba03?style=for-the-badge&logo=markdown&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  

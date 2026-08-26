@@ -2,7 +2,7 @@
 
 ## About Me
 
-IT & AI Systems Engineer with a passion for IoT. I love exploring various fields such as neuroscience, psychology, philosophy, physics, and more. With a keen interest in cutting-edge technologies and their applications, I thrive on pushing the boundaries of innovation.
+IT & Systems Engineer with a passion for IoT. I love exploring various fields such as neuroscience, psychology, philosophy, physics, and more. With a keen interest in cutting-edge technologies and their applications, I thrive on pushing the boundaries of innovation.
 
 🔭 I’m currently working on Custom Copilots, AI Agent Projects Configurations, AI Assistants Fleet Systems, & Agile AI-Driven Development.  
 🌱 I’m currently expanding my knowledge in AI, Hardware, Firmware, Low-Level Languages, embracing the ever-evolving tech landscape.  

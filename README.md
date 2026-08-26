@@ -24,6 +24,8 @@ IT & Systems Engineer with a passion for IoT. I love exploring various fields su
 
 ## Projects and Future Focus
 
-In navigating my projects and future aspirations, I hold a commitment to bridging the gap between innovation and pragmatism. Grounded in a deep understanding of industry dynamics and tech trends, my focus is on tangible outcomes and sustainable progress. 
+My work sits at the intersection of IaC, AI, and software engineering, with a focus on turning emerging technologies into practical, reliable, and meaningful solutions. I believe innovation is most valuable when it can move beyond experimentation and create tangible, sustainable impact.
 
-I strive for a future where IaC, IoT and AI solutions transcend mere technological advancements to become integral parts of our everyday lives. By harnessing expertise, staying adaptable in a rapidly changing landscape, I aim to lead transformative change that is both visionary and achievable. Let's embark on a journey towards a future where technology enriches our lives and propels us towards new horizons.
+I aim to build systems that are not only technically ambitious, but also useful, adaptable, and built to last. By combining deep technical expertise with an understanding of real-world constraints, I seek to transform complex ideas into solutions that can genuinely improve how we work, live, and interact with technology.
+
+My vision is to help shape a future where AI and intelligent infrastructure become seamless extensions of everyday life—advancing technology while keeping people, practicality, and long-term value at the center.
